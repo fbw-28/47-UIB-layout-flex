@@ -8,9 +8,9 @@ body {
 }
 
 div {
+    padding: 0;
     flex-shrink: 1;
     height: 100px;
-    width: 50px;
     background-color: darkgray;
     margin: 1em;
     border: 2px solid red;
