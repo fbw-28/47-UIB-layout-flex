@@ -1,0 +1,31 @@
+
+.container {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+    margin: 1em;
+    text-align: center;
+    /* flex-wrap: wrap; */
+
+    /* align-items: baseline;
+  
+    flex-direction: row-reverse;
+
+    */ 
+    
+    background-color: rgb(255, 255, 255);
+}
+
+.item {
+    font-size: 11px;
+    width: 80px;
+    height: 40px;
+    margin: 9px;
+    background-color:gray;
+    border: 2px solid red;
+    
+
+}

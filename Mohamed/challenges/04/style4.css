@@ -1,0 +1,31 @@
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid red;
+    height: 335px;
+    justify-content: space-evenly ;
+
+
+/*     
+    justify-items: last baseline; */
+
+    /* flex-direction: row-reverse;
+    justify-content:  flex-start;
+    align-content: flex-end;
+    background-color: turquoise; */
+
+}
+
+.item {
+
+    /* height: 60px;
+    width: 40px;  */
+    background-color: darkgray;
+
+    /* marign top make the items bottom  */
+    margin-top: auto;                  
+    border: 2px solid red;
+    text-align: center;
+}
