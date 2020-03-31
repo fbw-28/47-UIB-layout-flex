@@ -12,11 +12,16 @@ div {
     margin: 1em;
     border: 2px solid red;
     text-align: center;
+    
 }
 
 .container {
 
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    justify-content: center;
+    
+    
+    
+    
+    
 }
